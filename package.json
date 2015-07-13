@@ -26,7 +26,7 @@
     },
     {
       "name": "cordova-ios",
-      "version": ">=4.0.0-dev"
+      "version": ">=3.8.0-dev"
     }
   ],
   "author": "Apache Software Foundation",
